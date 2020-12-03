@@ -14,10 +14,10 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Amplifier_Operational:TL074 U?
+L Amplifier_Operational:TL074 U1
 U 1 1 5FC579CC
 P 1400 4750
-F 0 "U?" V 1354 4980 50  0000 L CNN
+F 0 "U1" V 1354 4980 50  0000 L CNN
 F 1 "TL074" V 1445 4980 50  0000 L CNN
 F 2 "" H 1350 4850 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 1450 4950 50  0001 C CNN
@@ -25,10 +25,10 @@ F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 1450 4950 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Device:R_POT RV?
+L Device:R_POT RV1
 U 1 1 5FC58CA0
 P 1300 4000
-F 0 "RV?" H 1231 4046 50  0000 R CNN
+F 0 "RV1" H 1231 4046 50  0000 R CNN
 F 1 "R_POT" H 1231 3955 50  0000 R CNN
 F 2 "" H 1300 4000 50  0001 C CNN
 F 3 "~" H 1300 4000 50  0001 C CNN
@@ -36,10 +36,10 @@ F 3 "~" H 1300 4000 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Amplifier_Operational:TL074 U?
+L Amplifier_Operational:TL074 U1
 U 2 1 5FC60E48
 P 2150 4750
-F 0 "U?" V 2104 4980 50  0000 L CNN
+F 0 "U1" V 2104 4980 50  0000 L CNN
 F 1 "TL074" V 2195 4980 50  0000 L CNN
 F 2 "" H 2100 4850 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 2200 4950 50  0001 C CNN
@@ -47,10 +47,10 @@ F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 2200 4950 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Amplifier_Operational:TL074 U?
+L Amplifier_Operational:TL074 U1
 U 3 1 5FC653A2
 P 2900 4750
-F 0 "U?" V 2854 4980 50  0000 L CNN
+F 0 "U1" V 2854 4980 50  0000 L CNN
 F 1 "TL074" V 2945 4980 50  0000 L CNN
 F 2 "" H 2850 4850 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 2950 4950 50  0001 C CNN
@@ -58,10 +58,10 @@ F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 2950 4950 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Amplifier_Operational:TL074 U?
+L Amplifier_Operational:TL074 U1
 U 4 1 5FC673C1
 P 3650 4750
-F 0 "U?" V 3604 4980 50  0000 L CNN
+F 0 "U1" V 3604 4980 50  0000 L CNN
 F 1 "TL074" V 3695 4980 50  0000 L CNN
 F 2 "" H 3600 4850 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 3700 4950 50  0001 C CNN
@@ -69,10 +69,10 @@ F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 3700 4950 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Amplifier_Operational:TL074 U?
+L Amplifier_Operational:TL074 U1
 U 5 1 5FC6A78D
 P 750 4650
-F 0 "U?" H 708 4696 50  0000 L CNN
+F 0 "U1" H 708 4696 50  0000 L CNN
 F 1 "TL074" H 708 4605 50  0000 L CNN
 F 2 "" H 700 4750 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 800 4850 50  0001 C CNN
@@ -108,10 +108,10 @@ Wire Wire Line
 Wire Wire Line
 	1500 4000 1450 4000
 $Comp
-L Device:R_POT RV?
+L Device:R_POT RV2
 U 1 1 5FC7CBBF
 P 2050 4000
-F 0 "RV?" H 1981 4046 50  0000 R CNN
+F 0 "RV2" H 1981 4046 50  0000 R CNN
 F 1 "R_POT" H 1981 3955 50  0000 R CNN
 F 2 "" H 2050 4000 50  0001 C CNN
 F 3 "~" H 2050 4000 50  0001 C CNN
@@ -123,10 +123,10 @@ Wire Wire Line
 Wire Wire Line
 	2250 4000 2200 4000
 $Comp
-L Device:R_POT RV?
+L Device:R_POT RV3
 U 1 1 5FC7DF79
 P 2800 4000
-F 0 "RV?" H 2731 4046 50  0000 R CNN
+F 0 "RV3" H 2731 4046 50  0000 R CNN
 F 1 "R_POT" H 2731 3955 50  0000 R CNN
 F 2 "" H 2800 4000 50  0001 C CNN
 F 3 "~" H 2800 4000 50  0001 C CNN
@@ -138,10 +138,10 @@ Wire Wire Line
 Wire Wire Line
 	3000 4000 2950 4000
 $Comp
-L Device:R_POT RV?
+L Device:R_POT RV4
 U 1 1 5FC7EE84
 P 3550 4000
-F 0 "RV?" H 3481 4046 50  0000 R CNN
+F 0 "RV4" H 3481 4046 50  0000 R CNN
 F 1 "R_POT" H 3481 3955 50  0000 R CNN
 F 2 "" H 3550 4000 50  0001 C CNN
 F 3 "~" H 3550 4000 50  0001 C CNN
@@ -230,10 +230,10 @@ F 3 "" H 650 4350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Regulator_Linear:L7805 U?
+L Regulator_Linear:L7805 U2
 U 1 1 5FC951DB
 P 1650 1100
-F 0 "U?" H 1650 1342 50  0000 C CNN
+F 0 "U2" H 1650 1342 50  0000 C CNN
 F 1 "L7805" H 1650 1251 50  0000 C CNN
 F 2 "" H 1675 950 50  0001 L CIN
 F 3 "http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf" H 1650 1050 50  0001 C CNN
@@ -263,10 +263,10 @@ F 3 "" H 1650 1550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C C?
+L Device:C C1
 U 1 1 5FC99490
 P 1100 1350
-F 0 "C?" H 1215 1396 50  0000 L CNN
+F 0 "C1" H 1215 1396 50  0000 L CNN
 F 1 "0.33u" H 1215 1305 50  0000 L CNN
 F 2 "" H 1138 1200 50  0001 C CNN
 F 3 "~" H 1100 1350 50  0001 C CNN
@@ -274,10 +274,10 @@ F 3 "~" H 1100 1350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C C?
+L Device:C C2
 U 1 1 5FC99CFB
 P 2100 1350
-F 0 "C?" H 2215 1396 50  0000 L CNN
+F 0 "C2" H 2215 1396 50  0000 L CNN
 F 1 "0.1u" H 2215 1305 50  0000 L CNN
 F 2 "" H 2138 1200 50  0001 C CNN
 F 3 "~" H 2100 1350 50  0001 C CNN
@@ -342,10 +342,10 @@ F 3 "" H 3550 3850 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Regulator_Linear:AZ1117-3.3 U?
+L Regulator_Linear:AZ1117-3.3 U3
 U 1 1 5FCD7242
 P 3050 1100
-F 0 "U?" H 3050 1342 50  0000 C CNN
+F 0 "U3" H 3050 1342 50  0000 C CNN
 F 1 "AZ1117-3.3" H 3050 1251 50  0000 C CNN
 F 2 "" H 3050 1350 50  0001 C CIN
 F 3 "https://www.diodes.com/assets/Datasheets/AZ1117.pdf" H 3050 1100 50  0001 C CNN
@@ -376,10 +376,10 @@ F 3 "" H 3750 1050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C C?
+L Device:C C3
 U 1 1 5FCE1FF5
 P 3600 1350
-F 0 "C?" H 3715 1396 50  0000 L CNN
+F 0 "C3" H 3715 1396 50  0000 L CNN
 F 1 "0.1u" H 3715 1305 50  0000 L CNN
 F 2 "" H 3638 1200 50  0001 C CNN
 F 3 "~" H 3600 1350 50  0001 C CNN
@@ -405,10 +405,10 @@ Wire Wire Line
 Wire Wire Line
 	9000 6150 9000 6050
 $Comp
-L Connector:AudioJack2 J?
+L Connector:AudioJack2 J2
 U 1 1 5FF708DC
 P 1400 5750
-F 0 "J?" V 1386 5938 50  0000 L CNN
+F 0 "J2" V 1386 5938 50  0000 L CNN
 F 1 "AudioJack2" V 1477 5938 50  0000 L CNN
 F 2 "" H 1400 5750 50  0001 C CNN
 F 3 "~" H 1400 5750 50  0001 C CNN
@@ -416,10 +416,10 @@ F 3 "~" H 1400 5750 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Connector:AudioJack2 J?
+L Connector:AudioJack2 J5
 U 1 1 5FF71150
 P 2150 5750
-F 0 "J?" V 2136 5938 50  0000 L CNN
+F 0 "J5" V 2136 5938 50  0000 L CNN
 F 1 "AudioJack2" V 2227 5938 50  0000 L CNN
 F 2 "" H 2150 5750 50  0001 C CNN
 F 3 "~" H 2150 5750 50  0001 C CNN
@@ -427,10 +427,10 @@ F 3 "~" H 2150 5750 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Connector:AudioJack2 J?
+L Connector:AudioJack2 J10
 U 1 1 5FF7115A
 P 3650 5750
-F 0 "J?" V 3636 5938 50  0000 L CNN
+F 0 "J10" V 3636 5938 50  0000 L CNN
 F 1 "AudioJack2" V 3727 5938 50  0000 L CNN
 F 2 "" H 3650 5750 50  0001 C CNN
 F 3 "~" H 3650 5750 50  0001 C CNN
@@ -438,10 +438,10 @@ F 3 "~" H 3650 5750 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Connector:AudioJack2 J?
+L Connector:AudioJack2 J7
 U 1 1 5FF71164
 P 2900 5750
-F 0 "J?" V 2886 5938 50  0000 L CNN
+F 0 "J7" V 2886 5938 50  0000 L CNN
 F 1 "AudioJack2" V 2977 5938 50  0000 L CNN
 F 2 "" H 2900 5750 50  0001 C CNN
 F 3 "~" H 2900 5750 50  0001 C CNN
@@ -462,10 +462,10 @@ F 3 "" H 1000 5200 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector_Generic:Conn_01x04 J?
+L Connector_Generic:Conn_01x04 J3
 U 1 1 5FF71179
 P 1450 6250
-F 0 "J?" H 1530 6242 50  0000 L CNN
+F 0 "J3" H 1530 6242 50  0000 L CNN
 F 1 "Conn_01x04" H 1250 5850 50  0000 L CNN
 F 2 "" H 1450 6250 50  0001 C CNN
 F 3 "~" H 1450 6250 50  0001 C CNN
@@ -473,10 +473,10 @@ F 3 "~" H 1450 6250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector_Generic:Conn_01x04 J?
+L Connector_Generic:Conn_01x04 J6
 U 1 1 5FF71183
 P 2200 6250
-F 0 "J?" H 2280 6242 50  0000 L CNN
+F 0 "J6" H 2280 6242 50  0000 L CNN
 F 1 "Conn_01x04" H 1950 5900 50  0000 L CNN
 F 2 "" H 2200 6250 50  0001 C CNN
 F 3 "~" H 2200 6250 50  0001 C CNN
@@ -484,10 +484,10 @@ F 3 "~" H 2200 6250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector_Generic:Conn_01x04 J?
+L Connector_Generic:Conn_01x04 J8
 U 1 1 5FF7118D
 P 2950 6250
-F 0 "J?" H 3030 6242 50  0000 L CNN
+F 0 "J8" H 3030 6242 50  0000 L CNN
 F 1 "Conn_01x04" H 2750 5900 50  0000 L CNN
 F 2 "" H 2950 6250 50  0001 C CNN
 F 3 "~" H 2950 6250 50  0001 C CNN
@@ -495,10 +495,10 @@ F 3 "~" H 2950 6250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector_Generic:Conn_01x04 J?
+L Connector_Generic:Conn_01x04 J11
 U 1 1 5FF71197
 P 3700 6250
-F 0 "J?" H 3780 6242 50  0000 L CNN
+F 0 "J11" H 3780 6242 50  0000 L CNN
 F 1 "Conn_01x04" H 3500 5900 50  0000 L CNN
 F 2 "" H 3700 6250 50  0001 C CNN
 F 3 "~" H 3700 6250 50  0001 C CNN
@@ -575,10 +575,10 @@ Wire Wire Line
 Wire Wire Line
 	2150 5050 2150 5200
 $Comp
-L Device:R R?
+L Device:R R1
 U 1 1 5FF711CD
 P 1400 5400
-F 0 "R?" H 1470 5446 50  0000 L CNN
+F 0 "R1" H 1470 5446 50  0000 L CNN
 F 1 "100" H 1470 5355 50  0000 L CNN
 F 2 "" V 1330 5400 50  0001 C CNN
 F 3 "~" H 1400 5400 50  0001 C CNN
@@ -613,10 +613,10 @@ Wire Wire Line
 	1400 5250 1400 5200
 Connection ~ 1400 5200
 $Comp
-L Device:R R?
+L Device:R R2
 U 1 1 5FF711E5
 P 2150 5400
-F 0 "R?" H 2220 5446 50  0000 L CNN
+F 0 "R2" H 2220 5446 50  0000 L CNN
 F 1 "100" H 2220 5355 50  0000 L CNN
 F 2 "" V 2080 5400 50  0001 C CNN
 F 3 "~" H 2150 5400 50  0001 C CNN
@@ -624,10 +624,10 @@ F 3 "~" H 2150 5400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R R?
+L Device:R R3
 U 1 1 5FF711EF
 P 2900 5400
-F 0 "R?" H 2970 5446 50  0000 L CNN
+F 0 "R3" H 2970 5446 50  0000 L CNN
 F 1 "100" H 2970 5355 50  0000 L CNN
 F 2 "" V 2830 5400 50  0001 C CNN
 F 3 "~" H 2900 5400 50  0001 C CNN
@@ -635,10 +635,10 @@ F 3 "~" H 2900 5400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R R?
+L Device:R R4
 U 1 1 5FF711F9
 P 3650 5400
-F 0 "R?" H 3720 5446 50  0000 L CNN
+F 0 "R4" H 3720 5446 50  0000 L CNN
 F 1 "100" H 3720 5355 50  0000 L CNN
 F 2 "" V 3580 5400 50  0001 C CNN
 F 3 "~" H 3650 5400 50  0001 C CNN
@@ -672,10 +672,10 @@ F 3 "" H 650 4950 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L Connector:TestPoint TP?
+L Connector:TestPoint TP1
 U 1 1 6005BF28
 P 4400 6400
-F 0 "TP?" H 4458 6518 50  0000 L CNN
+F 0 "TP1" H 4458 6518 50  0000 L CNN
 F 1 "TestPoint" H 4458 6427 50  0000 L CNN
 F 2 "" H 4600 6400 50  0001 C CNN
 F 3 "~" H 4600 6400 50  0001 C CNN
@@ -683,10 +683,10 @@ F 3 "~" H 4600 6400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:TestPoint TP?
+L Connector:TestPoint TP2
 U 1 1 6005C597
 P 4850 6400
-F 0 "TP?" H 4908 6518 50  0000 L CNN
+F 0 "TP2" H 4908 6518 50  0000 L CNN
 F 1 "TestPoint" H 4908 6427 50  0000 L CNN
 F 2 "" H 5050 6400 50  0001 C CNN
 F 3 "~" H 5050 6400 50  0001 C CNN
@@ -694,10 +694,10 @@ F 3 "~" H 5050 6400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:TestPoint TP?
+L Connector:TestPoint TP3
 U 1 1 6005CB19
 P 5300 6400
-F 0 "TP?" H 5358 6518 50  0000 L CNN
+F 0 "TP3" H 5358 6518 50  0000 L CNN
 F 1 "TestPoint" H 5358 6427 50  0000 L CNN
 F 2 "" H 5500 6400 50  0001 C CNN
 F 3 "~" H 5500 6400 50  0001 C CNN
@@ -705,10 +705,10 @@ F 3 "~" H 5500 6400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:TestPoint TP?
+L Connector:TestPoint TP4
 U 1 1 6005CE08
 P 5750 6400
-F 0 "TP?" H 5808 6518 50  0000 L CNN
+F 0 "TP4" H 5808 6518 50  0000 L CNN
 F 1 "TestPoint" H 5808 6427 50  0000 L CNN
 F 2 "" H 5950 6400 50  0001 C CNN
 F 3 "~" H 5950 6400 50  0001 C CNN
@@ -716,10 +716,10 @@ F 3 "~" H 5950 6400 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector:TestPoint TP?
+L Connector:TestPoint TP5
 U 1 1 6005D58A
 P 6200 6400
-F 0 "TP?" H 6258 6518 50  0000 L CNN
+F 0 "TP5" H 6258 6518 50  0000 L CNN
 F 1 "TestPoint" H 6258 6427 50  0000 L CNN
 F 2 "" H 6400 6400 50  0001 C CNN
 F 3 "~" H 6400 6400 50  0001 C CNN
@@ -757,10 +757,10 @@ Wire Wire Line
 	700  1100 700  750 
 Connection ~ 1100 1100
 $Comp
-L Connector_Generic:Conn_02x05_Top_Bottom J?
+L Connector_Generic:Conn_02x05_Top_Bottom J1
 U 1 1 60081108
 P 1000 7300
-F 0 "J?" H 1050 7717 50  0000 C CNN
+F 0 "J1" H 1050 7717 50  0000 C CNN
 F 1 "Conn_02x05_Top_Bottom" H 1050 7626 50  0000 C CNN
 F 2 "" H 1000 7300 50  0001 C CNN
 F 3 "~" H 1000 7300 50  0001 C CNN
@@ -768,10 +768,10 @@ F 3 "~" H 1000 7300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector_Generic:Conn_02x05_Top_Bottom J?
+L Connector_Generic:Conn_02x05_Top_Bottom J4
 U 1 1 600DBB08
 P 2000 7300
-F 0 "J?" H 2050 7717 50  0000 C CNN
+F 0 "J4" H 2050 7717 50  0000 C CNN
 F 1 "Conn_02x05_Top_Bottom" H 2050 7626 50  0000 C CNN
 F 2 "" H 2000 7300 50  0001 C CNN
 F 3 "~" H 2000 7300 50  0001 C CNN
@@ -779,10 +779,10 @@ F 3 "~" H 2000 7300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector_Generic:Conn_02x05_Top_Bottom J?
+L Connector_Generic:Conn_02x05_Top_Bottom J9
 U 1 1 600DCCAE
 P 3000 7300
-F 0 "J?" H 3050 7717 50  0000 C CNN
+F 0 "J9" H 3050 7717 50  0000 C CNN
 F 1 "Conn_02x05_Top_Bottom" H 3050 7626 50  0000 C CNN
 F 2 "" H 3000 7300 50  0001 C CNN
 F 3 "~" H 3000 7300 50  0001 C CNN
@@ -790,10 +790,10 @@ F 3 "~" H 3000 7300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector_Generic:Conn_02x05_Top_Bottom J?
+L Connector_Generic:Conn_02x05_Top_Bottom J12
 U 1 1 600EE590
 P 4000 7300
-F 0 "J?" H 4050 7717 50  0000 C CNN
+F 0 "J12" H 4050 7717 50  0000 C CNN
 F 1 "Conn_02x05_Top_Bottom" H 4050 7626 50  0000 C CNN
 F 2 "" H 4000 7300 50  0001 C CNN
 F 3 "~" H 4000 7300 50  0001 C CNN
@@ -801,10 +801,10 @@ F 3 "~" H 4000 7300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector_Generic:Conn_01x04 J?
+L Connector_Generic:Conn_01x04 J14
 U 1 1 600F0147
 P 5300 7300
-F 0 "J?" H 5380 7292 50  0000 L CNN
+F 0 "J14" H 5380 7292 50  0000 L CNN
 F 1 "Conn_01x04" H 5380 7201 50  0000 L CNN
 F 2 "" H 5300 7300 50  0001 C CNN
 F 3 "~" H 5300 7300 50  0001 C CNN
@@ -1018,10 +1018,10 @@ Wire Wire Line
 Wire Wire Line
 	8850 4650 8850 4750
 $Comp
-L Device:R R?
+L Device:R R18
 U 1 1 5FFB5C7C
 P 8850 4500
-F 0 "R?" H 8920 4546 50  0000 L CNN
+F 0 "R18" H 8920 4546 50  0000 L CNN
 F 1 "68k" H 8920 4455 50  0000 L CNN
 F 2 "" V 8780 4500 50  0001 C CNN
 F 3 "~" H 8850 4500 50  0001 C CNN
@@ -1029,10 +1029,10 @@ F 3 "~" H 8850 4500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R R?
+L Device:R R14
 U 1 1 5FFB55AB
 P 8100 4500
-F 0 "R?" H 8170 4546 50  0000 L CNN
+F 0 "R14" H 8170 4546 50  0000 L CNN
 F 1 "68k" H 8170 4455 50  0000 L CNN
 F 2 "" V 8030 4500 50  0001 C CNN
 F 3 "~" H 8100 4500 50  0001 C CNN
@@ -1058,10 +1058,10 @@ Connection ~ 7650 4900
 Wire Wire Line
 	7650 4900 7650 4950
 $Comp
-L Device:R R?
+L Device:R R20
 U 1 1 5FF2022D
 P 9150 5100
-F 0 "R?" H 9220 5146 50  0000 L CNN
+F 0 "R20" H 9220 5146 50  0000 L CNN
 F 1 "100" H 9220 5055 50  0000 L CNN
 F 2 "" V 9080 5100 50  0001 C CNN
 F 3 "~" H 9150 5100 50  0001 C CNN
@@ -1069,10 +1069,10 @@ F 3 "~" H 9150 5100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R R?
+L Device:R R16
 U 1 1 5FF1FBB1
 P 8400 5100
-F 0 "R?" H 8470 5146 50  0000 L CNN
+F 0 "R16" H 8470 5146 50  0000 L CNN
 F 1 "100" H 8470 5055 50  0000 L CNN
 F 2 "" V 8330 5100 50  0001 C CNN
 F 3 "~" H 8400 5100 50  0001 C CNN
@@ -1080,10 +1080,10 @@ F 3 "~" H 8400 5100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R R?
+L Device:R R12
 U 1 1 5FF1F678
 P 7650 5100
-F 0 "R?" H 7720 5146 50  0000 L CNN
+F 0 "R12" H 7720 5146 50  0000 L CNN
 F 1 "100" H 7720 5055 50  0000 L CNN
 F 2 "" V 7580 5100 50  0001 C CNN
 F 3 "~" H 7650 5100 50  0001 C CNN
@@ -1118,10 +1118,10 @@ Wire Wire Line
 Wire Wire Line
 	7150 5700 7150 4900
 $Comp
-L Device:R R?
+L Device:R R8
 U 1 1 5FEF12BE
 P 6900 5100
-F 0 "R?" H 6970 5146 50  0000 L CNN
+F 0 "R8" H 6970 5146 50  0000 L CNN
 F 1 "100" H 6970 5055 50  0000 L CNN
 F 2 "" V 6830 5100 50  0001 C CNN
 F 3 "~" H 6900 5100 50  0001 C CNN
@@ -1157,10 +1157,10 @@ Wire Wire Line
 Text Notes 6950 4800 0    50   ~ 0
 +- 8.5V
 $Comp
-L Device:R R?
+L Device:R R10
 U 1 1 5FE6AC81
 P 7350 4500
-F 0 "R?" H 7420 4546 50  0000 L CNN
+F 0 "R10" H 7420 4546 50  0000 L CNN
 F 1 "68k" H 7420 4455 50  0000 L CNN
 F 2 "" V 7280 4500 50  0001 C CNN
 F 3 "~" H 7350 4500 50  0001 C CNN
@@ -1168,10 +1168,10 @@ F 3 "~" H 7350 4500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R R?
+L Device:R R17
 U 1 1 5FE6A615
 P 8850 3350
-F 0 "R?" H 8920 3396 50  0000 L CNN
+F 0 "R17" H 8920 3396 50  0000 L CNN
 F 1 "10k" H 8920 3305 50  0000 L CNN
 F 2 "" V 8780 3350 50  0001 C CNN
 F 3 "~" H 8850 3350 50  0001 C CNN
@@ -1179,10 +1179,10 @@ F 3 "~" H 8850 3350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R R?
+L Device:R R13
 U 1 1 5FE69BB8
 P 8100 3350
-F 0 "R?" H 8170 3396 50  0000 L CNN
+F 0 "R13" H 8170 3396 50  0000 L CNN
 F 1 "10k" H 8170 3305 50  0000 L CNN
 F 2 "" V 8030 3350 50  0001 C CNN
 F 3 "~" H 8100 3350 50  0001 C CNN
@@ -1190,10 +1190,10 @@ F 3 "~" H 8100 3350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R R?
+L Device:R R9
 U 1 1 5FE696E0
 P 7350 3350
-F 0 "R?" H 7420 3396 50  0000 L CNN
+F 0 "R9" H 7420 3396 50  0000 L CNN
 F 1 "10k" H 7420 3305 50  0000 L CNN
 F 2 "" V 7280 3350 50  0001 C CNN
 F 3 "~" H 7350 3350 50  0001 C CNN
@@ -1208,10 +1208,10 @@ Connection ~ 6600 4100
 Wire Wire Line
 	6600 4350 6600 4100
 $Comp
-L Device:R R?
+L Device:R R6
 U 1 1 5FE54F9E
 P 6600 4500
-F 0 "R?" H 6670 4546 50  0000 L CNN
+F 0 "R6" H 6670 4546 50  0000 L CNN
 F 1 "68k" H 6670 4455 50  0000 L CNN
 F 2 "" V 6530 4500 50  0001 C CNN
 F 3 "~" H 6600 4500 50  0001 C CNN
@@ -1227,10 +1227,10 @@ Wire Wire Line
 Wire Wire Line
 	6600 4100 6600 3500
 $Comp
-L Device:R R?
+L Device:R R5
 U 1 1 5FE419BE
 P 6600 3350
-F 0 "R?" H 6670 3396 50  0000 L CNN
+F 0 "R5" H 6670 3396 50  0000 L CNN
 F 1 "10k" H 6670 3305 50  0000 L CNN
 F 2 "" V 6530 3350 50  0001 C CNN
 F 3 "~" H 6600 3350 50  0001 C CNN
@@ -1270,10 +1270,10 @@ Connection ~ 9050 3600
 Wire Wire Line
 	9050 3600 9050 3700
 $Comp
-L Device:R R?
+L Device:R R19
 U 1 1 5FDF408A
 P 9050 3850
-F 0 "R?" H 9120 3896 50  0000 L CNN
+F 0 "R19" H 9120 3896 50  0000 L CNN
 F 1 "44k" H 9120 3805 50  0000 L CNN
 F 2 "" V 8980 3850 50  0001 C CNN
 F 3 "~" H 9050 3850 50  0001 C CNN
@@ -1281,10 +1281,10 @@ F 3 "~" H 9050 3850 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R R?
+L Device:R R15
 U 1 1 5FDF3B1D
 P 8300 3850
-F 0 "R?" H 8370 3896 50  0000 L CNN
+F 0 "R15" H 8370 3896 50  0000 L CNN
 F 1 "44k" H 8370 3805 50  0000 L CNN
 F 2 "" V 8230 3850 50  0001 C CNN
 F 3 "~" H 8300 3850 50  0001 C CNN
@@ -1292,10 +1292,10 @@ F 3 "~" H 8300 3850 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R R?
+L Device:R R11
 U 1 1 5FDF34EE
 P 7550 3850
-F 0 "R?" H 7620 3896 50  0000 L CNN
+F 0 "R11" H 7620 3896 50  0000 L CNN
 F 1 "44k" H 7620 3805 50  0000 L CNN
 F 2 "" V 7480 3850 50  0001 C CNN
 F 3 "~" H 7550 3850 50  0001 C CNN
@@ -1303,10 +1303,10 @@ F 3 "~" H 7550 3850 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R R?
+L Device:R R7
 U 1 1 5FDF2F86
 P 6800 3850
-F 0 "R?" H 6870 3896 50  0000 L CNN
+F 0 "R7" H 6870 3896 50  0000 L CNN
 F 1 "44k" H 6870 3805 50  0000 L CNN
 F 2 "" V 6730 3850 50  0001 C CNN
 F 3 "~" H 6800 3850 50  0001 C CNN
@@ -1349,10 +1349,10 @@ Wire Wire Line
 Wire Wire Line
 	10250 4050 10250 3950
 $Comp
-L Device:R R?
+L Device:R R21
 U 1 1 5FDA852C
 P 10250 3800
-F 0 "R?" H 10320 3846 50  0000 L CNN
+F 0 "R21" H 10320 3846 50  0000 L CNN
 F 1 "220" H 10320 3755 50  0000 L CNN
 F 2 "" V 10180 3800 50  0001 C CNN
 F 3 "~" H 10250 3800 50  0001 C CNN
@@ -1377,10 +1377,10 @@ F 3 "" H 10900 3250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Diode:1N47xxA D?
+L Diode:1N47xxA D1
 U 1 1 5FD936F1
 P 10250 3400
-F 0 "D?" V 10204 3480 50  0000 L CNN
+F 0 "D1" V 10204 3480 50  0000 L CNN
 F 1 "1N47xxA" V 10295 3480 50  0000 L CNN
 F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 10250 3225 50  0001 C CNN
 F 3 "https://www.vishay.com/docs/85816/1n4728a.pdf" H 10250 3400 50  0001 C CNN
@@ -1450,10 +1450,10 @@ Wire Wire Line
 	6750 5950 6750 5850
 Connection ~ 6750 5950
 $Comp
-L Connector_Generic:Conn_01x04 J?
+L Connector_Generic:Conn_01x04 J22
 U 1 1 5FD06A96
 P 9200 5950
-F 0 "J?" H 9280 5942 50  0000 L CNN
+F 0 "J22" H 9280 5942 50  0000 L CNN
 F 1 "Conn_01x04" H 9000 5600 50  0000 L CNN
 F 2 "" H 9200 5950 50  0001 C CNN
 F 3 "~" H 9200 5950 50  0001 C CNN
@@ -1461,10 +1461,10 @@ F 3 "~" H 9200 5950 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector_Generic:Conn_01x04 J?
+L Connector_Generic:Conn_01x04 J20
 U 1 1 5FD06A8C
 P 8450 5950
-F 0 "J?" H 8530 5942 50  0000 L CNN
+F 0 "J20" H 8530 5942 50  0000 L CNN
 F 1 "Conn_01x04" H 8250 5600 50  0000 L CNN
 F 2 "" H 8450 5950 50  0001 C CNN
 F 3 "~" H 8450 5950 50  0001 C CNN
@@ -1472,10 +1472,10 @@ F 3 "~" H 8450 5950 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector_Generic:Conn_01x04 J?
+L Connector_Generic:Conn_01x04 J18
 U 1 1 5FD06A82
 P 7700 5950
-F 0 "J?" H 7780 5942 50  0000 L CNN
+F 0 "J18" H 7780 5942 50  0000 L CNN
 F 1 "Conn_01x04" H 7450 5600 50  0000 L CNN
 F 2 "" H 7700 5950 50  0001 C CNN
 F 3 "~" H 7700 5950 50  0001 C CNN
@@ -1483,10 +1483,10 @@ F 3 "~" H 7700 5950 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Connector_Generic:Conn_01x04 J?
+L Connector_Generic:Conn_01x04 J16
 U 1 1 5FD06A78
 P 6950 5950
-F 0 "J?" H 7030 5942 50  0000 L CNN
+F 0 "J16" H 7030 5942 50  0000 L CNN
 F 1 "Conn_01x04" H 6750 5550 50  0000 L CNN
 F 2 "" H 6950 5950 50  0001 C CNN
 F 3 "~" H 6950 5950 50  0001 C CNN
@@ -1507,10 +1507,10 @@ $EndComp
 Wire Wire Line
 	6500 4850 6500 4900
 $Comp
-L Connector:AudioJack2 J?
+L Connector:AudioJack2 J19
 U 1 1 5FD06A3D
 P 8400 5450
-F 0 "J?" V 8386 5638 50  0000 L CNN
+F 0 "J19" V 8386 5638 50  0000 L CNN
 F 1 "AudioJack2" V 8477 5638 50  0000 L CNN
 F 2 "" H 8400 5450 50  0001 C CNN
 F 3 "~" H 8400 5450 50  0001 C CNN
@@ -1518,10 +1518,10 @@ F 3 "~" H 8400 5450 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Connector:AudioJack2 J?
+L Connector:AudioJack2 J21
 U 1 1 5FD06A33
 P 9150 5450
-F 0 "J?" V 9136 5638 50  0000 L CNN
+F 0 "J21" V 9136 5638 50  0000 L CNN
 F 1 "AudioJack2" V 9227 5638 50  0000 L CNN
 F 2 "" H 9150 5450 50  0001 C CNN
 F 3 "~" H 9150 5450 50  0001 C CNN
@@ -1529,10 +1529,10 @@ F 3 "~" H 9150 5450 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Connector:AudioJack2 J?
+L Connector:AudioJack2 J17
 U 1 1 5FD06A29
 P 7650 5450
-F 0 "J?" V 7636 5638 50  0000 L CNN
+F 0 "J17" V 7636 5638 50  0000 L CNN
 F 1 "AudioJack2" V 7727 5638 50  0000 L CNN
 F 2 "" H 7650 5450 50  0001 C CNN
 F 3 "~" H 7650 5450 50  0001 C CNN
@@ -1540,10 +1540,10 @@ F 3 "~" H 7650 5450 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Connector:AudioJack2 J?
+L Connector:AudioJack2 J15
 U 1 1 5FD06A1F
 P 6900 5450
-F 0 "J?" V 6886 5638 50  0000 L CNN
+F 0 "J15" V 6886 5638 50  0000 L CNN
 F 1 "AudioJack2" V 6977 5638 50  0000 L CNN
 F 2 "" H 6900 5450 50  0001 C CNN
 F 3 "~" H 6900 5450 50  0001 C CNN
@@ -1573,10 +1573,10 @@ F 3 "" H 6100 4300 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Amplifier_Operational:TL074 U?
+L Amplifier_Operational:TL074 U5
 U 5 1 5FD06993
 P 6200 4600
-F 0 "U?" H 6158 4646 50  0000 L CNN
+F 0 "U5" H 6158 4646 50  0000 L CNN
 F 1 "TL074" H 6158 4555 50  0000 L CNN
 F 2 "" H 6150 4700 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 6250 4800 50  0001 C CNN
@@ -1584,10 +1584,10 @@ F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 6250 4800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Amplifier_Operational:TL074 U?
+L Amplifier_Operational:TL074 U5
 U 4 1 5FD06989
 P 9150 4450
-F 0 "U?" V 9150 4600 50  0000 L CNN
+F 0 "U5" V 9150 4600 50  0000 L CNN
 F 1 "TL074" V 9250 4550 50  0000 L CNN
 F 2 "" H 9100 4550 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 9200 4650 50  0001 C CNN
@@ -1595,10 +1595,10 @@ F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 9200 4650 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Amplifier_Operational:TL074 U?
+L Amplifier_Operational:TL074 U5
 U 3 1 5FD0697F
 P 8400 4450
-F 0 "U?" V 8400 4600 50  0000 L CNN
+F 0 "U5" V 8400 4600 50  0000 L CNN
 F 1 "TL074" V 8500 4550 50  0000 L CNN
 F 2 "" H 8350 4550 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 8450 4650 50  0001 C CNN
@@ -1606,10 +1606,10 @@ F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 8450 4650 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Amplifier_Operational:TL074 U?
+L Amplifier_Operational:TL074 U5
 U 2 1 5FD06975
 P 7650 4450
-F 0 "U?" V 7650 4600 50  0000 L CNN
+F 0 "U5" V 7650 4600 50  0000 L CNN
 F 1 "TL074" V 7750 4550 50  0000 L CNN
 F 2 "" H 7600 4550 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 7700 4650 50  0001 C CNN
@@ -1617,10 +1617,10 @@ F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 7700 4650 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Amplifier_Operational:TL074 U?
+L Amplifier_Operational:TL074 U5
 U 1 1 5FD06435
 P 6900 4450
-F 0 "U?" V 6900 4600 50  0000 L CNN
+F 0 "U5" V 6900 4600 50  0000 L CNN
 F 1 "TL074" V 7000 4550 50  0000 L CNN
 F 2 "" H 6850 4550 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 6950 4650 50  0001 C CNN
@@ -1628,10 +1628,10 @@ F 3 "http://www.ti.com/lit/ds/symlink/tl071.pdf" H 6950 4650 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Analog_DAC:MAX5813 U?
+L Analog_DAC:MAX5813 U4
 U 1 1 5FCE981F
 P 5900 2450
-F 0 "U?" H 5900 1861 50  0000 C CNN
+F 0 "U4" H 5900 1861 50  0000 C CNN
 F 1 "MAX5813" H 5900 1770 50  0000 C CNN
 F 2 "" H 6350 2500 50  0001 C CNN
 F 3 "http://datasheets.maximintegrated.com/en/ds/MAX5813-MAX5815.pdf" H 5950 2450 50  0001 C CNN
@@ -1649,10 +1649,10 @@ F4 "SCL" I R 4550 2250 50
 F5 "SDA" I R 4550 2150 50 
 $EndSheet
 $Comp
-L Connector_Generic:Conn_01x04 J?
+L Connector_Generic:Conn_01x04 J13
 U 1 1 6055EB0E
 P 4700 1200
-F 0 "J?" H 4780 1192 50  0000 L CNN
+F 0 "J13" H 4780 1192 50  0000 L CNN
 F 1 "Conn_01x04" H 4780 1101 50  0000 L CNN
 F 2 "" H 4700 1200 50  0001 C CNN
 F 3 "~" H 4700 1200 50  0001 C CNN
@@ -1681,4 +1681,29 @@ Wire Wire Line
 	4550 2450 5400 2450
 Wire Wire Line
 	4550 2550 5400 2550
+Wire Wire Line
+	6000 1950 6000 1900
+Wire Wire Line
+	6000 1900 5900 1900
+Wire Wire Line
+	5800 1900 5800 1950
+Wire Wire Line
+	5900 1950 5900 1900
+Connection ~ 5900 1900
+Wire Wire Line
+	5900 1900 5800 1900
+Wire Wire Line
+	5800 1900 5800 1850
+Connection ~ 5800 1900
+$Comp
+L power:+3V3 #PWR?
+U 1 1 60826B2F
+P 5800 1850
+F 0 "#PWR?" H 5800 1700 50  0001 C CNN
+F 1 "+3V3" H 5815 2023 50  0000 C CNN
+F 2 "" H 5800 1850 50  0001 C CNN
+F 3 "" H 5800 1850 50  0001 C CNN
+	1    5800 1850
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
